@@ -9,7 +9,7 @@ This project demonstrates basic Excel skills using a retail sales dataset.
 - Calculated the average commission using the AVERAGE function in cell P11.  
 
 **Files Included:**  
-- `retail-sales_dataset.xlsx` → contains the dataset and calculations  
+- `retail_sales_dataset_Master_.xlsx` → contains the dataset and calculations  
 - Screenshots demonstrating table creation, filtering, and formulas  
 
 **Skills Demonstrated:**  
